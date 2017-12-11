@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['sendasflashsms',['sendAsFlashSms',['../class_websms_1_1_data_1_1_binary_sms_send_request.html#a62c756e38b1c32d2be954ded24834669',1,'Websms.Data.BinarySmsSendRequest.sendAsFlashSms()'],['../class_websms_1_1_data_1_1_text_sms_send_request.html#a7aaf2419e58285384f429e1a0c4c1212',1,'Websms.Data.TextSmsSendRequest.sendAsFlashSms()']]],
+  ['senderaddress',['senderAddress',['../class_websms_1_1_data_1_1_binary_sms_send_request.html#a222dc7c5a62da4295df879284e28a5b3',1,'Websms.Data.BinarySmsSendRequest.senderAddress()'],['../class_websms_1_1_data_1_1_text_sms_send_request.html#a1d02f001b87c7304bc796f587984cad9',1,'Websms.Data.TextSmsSendRequest.senderAddress()']]],
+  ['senderaddresstype',['senderAddressType',['../class_websms_1_1_data_1_1_binary_sms_send_request.html#adc4346fa75f3545fc3d61381398b1fa3',1,'Websms.Data.BinarySmsSendRequest.senderAddressType()'],['../class_websms_1_1_data_1_1_text_sms_send_request.html#a0a9cbb681b2e779db20f768de66e27ec',1,'Websms.Data.TextSmsSendRequest.senderAddressType()']]],
+  ['statuscode',['statusCode',['../class_websms_1_1_data_1_1_sms_send_response.html#a09a4055cd77a7e730bc67628ec13b244',1,'Websms.Data.SmsSendResponse.statusCode()'],['../class_websms_1_1_exceptions_1_1_api_exception.html#ab98e1496895f868ff8433b1f99fe0846',1,'Websms.Exceptions.ApiException.statusCode()'],['../class_websms_1_1_exceptions_1_1_http_connection_exception.html#acec594a9f7890ff4786cf8cfc0c04516',1,'Websms.Exceptions.HttpConnectionException.statusCode()']]],
+  ['statusmessage',['statusMessage',['../class_websms_1_1_data_1_1_sms_send_response.html#ae2a6a302c4a22a67ed462ed980488f51',1,'Websms::Data::SmsSendResponse']]]
+];
