@@ -26,9 +26,9 @@ Usage
 
   For a quick start, check out out the examples:
 
-  * examples/simple.cs: Simple example sending a text SMS.
-  * examples/async.cs:  Sending a binary message asynchronously.
-  * examples/ASP.NET/:  Simple web page for sending a text SMS.
+  * [examples/simple.cs](examples/simple.cs): Simple example sending a text SMS.
+  * [examples/async.cs](examples/async.cs):  Sending a binary message asynchronously.
+  * [examples/ASP.NET/](examples/ASP.NET/):  Simple web page for sending a text SMS.
 
   If you want to compile the library yourself, the Microsoft Visual Studio 2010
   solution and project files are included in this package.
@@ -39,8 +39,8 @@ Documentation
 -------------
 
   The documentation available as of the date of this release is included in the
-  [doc/](doc/) directory.
-  Changes to the source also require the docuemntation to be updated (Doxygen).
+  doc/ directory.
+  Changes to the source also require the documentation to be updated (Doxygen).
 
 Contact
 -------
