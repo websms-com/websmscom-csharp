@@ -35,6 +35,11 @@ Usage
 
   This toolkit requires Microsoft .NET Framework 3.5.
 
+NuGet Package
+-------------
+
+  See https://www.nuget.org/packages/WebsmsToolkitCS/
+
 Documentation
 -------------
 
