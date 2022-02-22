@@ -5,7 +5,6 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Text.RegularExpressions;
-
 using Websms;
 
 namespace ASPExample
@@ -20,7 +19,7 @@ namespace ASPExample
         private static string USERNAME = "";
         // websms.com password
         private static string PASSWORD = "";
-        
+
         protected void Page_Load(object sender, EventArgs e)
         {
         }

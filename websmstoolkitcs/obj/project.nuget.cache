@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FtA20h3KPyFmL/KNQEG/hCq+2oex4iLzrVWWDqP0jhwHgZwUer4ZlpYNzabrMifD91uw8KLGNv3IPcC21Z3MCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source_Code\\github\\websmscom-csharp\\websmstoolkitcs\\WebsmsToolkitCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon.pucher\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.310801\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.310801.nupkg.sha512"
+  ],
+  "logs": []
+}

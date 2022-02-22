@@ -13,6 +13,7 @@ What is it?
 Latest Version
 ------------------
 
+  * Version 1.0.2: All projects in the solution were upgraded to be useable in .NET core projects
   * Version 1.0.1: Examples: Set 'test' parameter to false as default
                    Sets version in user agent header
   * Version 1.0.0: Basic text- and binary-sms-sending
@@ -30,10 +31,11 @@ Usage
   * [examples/async.cs](examples/async.cs):  Sending a binary message asynchronously.
   * [examples/ASP.NET/](examples/ASP.NET/):  Simple web page for sending a text SMS.
 
-  If you want to compile the library yourself, the Microsoft Visual Studio 2010
+  If you want to compile the library yourself, the Microsoft Visual Studio 2022
   solution and project files are included in this package.
 
-  This toolkit requires Microsoft .NET Framework 3.5.
+  The library toolkit requires Microsoft .NET Standard 2.1.
+  All other projects in the solution require .NET core 6.x LTS
 
 NuGet Package
 -------------
@@ -55,4 +57,3 @@ Contributors
 ------------
   * Markus Opitz
   * Georg Hinteregger
-
