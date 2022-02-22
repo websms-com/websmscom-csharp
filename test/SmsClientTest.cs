@@ -1,20 +1,21 @@
-﻿using System;
+using NUnit.Framework;
 using System.Collections;
 using System.Text;
-
-using NUnit.Framework;
-
 using Websms;
 using Websms.Exceptions;
 
-namespace WebsmsTest
+namespace Test
 {
-    [TestFixture]
-    class SmsClientTest
+    public class SmsClientTest
     {
         private const string USERNAME = "";
         private const string PASSWORD = "";
         private const string URL = "https://api.websms.com/json";
+
+        [SetUp]
+        public void Setup()
+        {
+        }
 
         [Test]
         public void NoUser()
@@ -133,5 +134,6 @@ namespace WebsmsTest
             Assert.AreEqual(response.statusMessage, "OK");
             Assert.AreEqual(response.clientMessageId, "clientMessageId");
         }
+
     }
 }

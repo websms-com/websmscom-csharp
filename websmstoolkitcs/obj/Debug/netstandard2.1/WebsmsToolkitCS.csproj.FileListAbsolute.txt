@@ -1,0 +1,11 @@
+C:\Source_Code\github\websmscom-csharp\obj\Debug\netstandard2.1\WebsmsToolkitCS.csproj.AssemblyReference.cache
+C:\Source_Code\github\websmscom-csharp\obj\Debug\netstandard2.1\WebsmsToolkitCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source_Code\github\websmscom-csharp\obj\Debug\netstandard2.1\WebsmsToolkitCS.csproj.CoreCompileInputs.cache
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\bin\Debug\netstandard2.1\WebsmsToolkitCS.deps.json
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\bin\Debug\netstandard2.1\WebsmsToolkitCS.dll
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\bin\Debug\netstandard2.1\WebsmsToolkitCS.pdb
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\obj\Debug\netstandard2.1\WebsmsToolkitCS.csproj.AssemblyReference.cache
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\obj\Debug\netstandard2.1\WebsmsToolkitCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\obj\Debug\netstandard2.1\WebsmsToolkitCS.csproj.CoreCompileInputs.cache
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\obj\Debug\netstandard2.1\WebsmsToolkitCS.dll
+C:\Source_Code\github\websmscom-csharp\websmstoolkitcs\obj\Debug\netstandard2.1\WebsmsToolkitCS.pdb

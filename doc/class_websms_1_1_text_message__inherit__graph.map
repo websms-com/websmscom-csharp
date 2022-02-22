@@ -1,4 +1,0 @@
-<map id="Websms.TextMessage" name="Websms.TextMessage">
-<area shape="rect" id="node2" href="$class_websms_1_1_data_1_1_text_sms_send_request.html" title="Represents a text sms send request. " alt="" coords="5,5,177,244"/>
-<area shape="rect" id="node3" title="Simple interface for requests. " alt="" coords="202,86,317,163"/>
-</map>

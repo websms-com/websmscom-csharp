@@ -1,0 +1,10 @@
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\bin\ASPExample.dll.config
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\bin\ASPExample.dll
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\bin\ASPExample.pdb
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\bin\WebsmsToolkitCS.dll
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\bin\WebsmsToolkitCS.pdb
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\obj\Debug\ASPExample.csproj.AssemblyReference.cache
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\obj\Debug\ASPExample.csproj.CoreCompileInputs.cache
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\obj\Debug\ASPExample.csproj.CopyComplete
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\obj\Debug\ASPExample.dll
+C:\Source_Code\github\websmscom-csharp\examples\ASP.NET\obj\Debug\ASPExample.pdb
